@@ -35,6 +35,7 @@ data("HELPmiss", package = "mosaicData")
 
 *Write several sentences (or a bullet list) describing the HELP Study and the resulting `HELPmiss` data.  Your description should investigate basic data provenance (e.g., Who, What, When, Where, Why, How), explain the setting for the data, specify what each case represents in the data, and remark on inclusion/exclusion criteria.* 
 
+test
 
 - investigate by searching R help documentation
 - there's a research paper cited where additional detail is provided
